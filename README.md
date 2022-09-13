@@ -1,16 +1,18 @@
-### Hi there 👋
+### Приветики >_< 👋
 
-<!--
-**SAn4Es-TV/SAn4Es-TV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Александр, я специализируюсь на разных сферах, а именно:
+* 💻 - C# программит
+* ✏️ - Художник
+* 🤖 - Радиотехник
+* 🧊 - 3D-художник
 
-Here are some ideas to get you started:
+Так же люблю:
+* 📖 - Придумывать интересные истории
+* 🔪 - Ножи
+* 🎹 - Играть на пианино
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Мои контакты: 
+* — sanes328@gmail.com
+* — [t.me/SAn4Es_TV](https://t.me/SAn4Es_TV)
+* — Discord (SAn4Es_TV#1117)
+* — [Instagram](https://www.instagram.com/san4es_tv/)
