@@ -1,17 +1,19 @@
-### Приветики >_< 👋
+<div align="center">
 
-Я Аква, я специализируюсь на разных сферах, а именно:
-* 💻 - C# коддинг
-* ✏️ - Художничество
-* 🤖 - Радиотехничество
+# Приветики, я Аква! 👋
+### 💻 C# Dev | 🎨 Artist | ⚙️ Radio Engineer
 
-Так же люблю:
-* 🔪 - Ножи
-* 🎹 - Играть на пианино
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Art](https://img.shields.io/badge/Digital_Art-%23F7DF1E.svg?style=for-the-badge&logo=artstation&logoColor=black)
+![Hardware](https://img.shields.io/badge/Hardware-FF8C00.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
-#### Мои контакты: 
-* — sanes328@gmail.com
-* — [t.me/SAn4Es_TV](https://t.me/SAn4Es_TV)
-* — Discord (SAn4Es_TV#1117)
+---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C7SGIY9)
+Я создаю софт на C#, рисую и разбираюсь в том, как работают железки изнутри.
+
+🎹 **Piano Lover** | 🔪 **Knife Lover**
+
+**Связь со мной:**
+[Telegram](https://t.me/SAn4Es_TV) • [Email](mailto:sanes328@gmail.com) • `SAn4Es_TV#1117`
+
+</div>
